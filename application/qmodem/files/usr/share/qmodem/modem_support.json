@@ -1119,6 +1119,18 @@
                     "ecm"
                 ]
             },
+            "ln960": {
+                "id": "1bc7:1910",
+                "manufacturer_id": "1bc7",
+                "manufacturer": "telit",
+                "platform": "qualcomm",
+                "data_interface": "usb",
+                "pdp_index": "1",
+                "modes": [
+                    "mbim",
+                    "qmi"
+                ]
+            },
             "simcom_a8200_serias": {
                 "manufacturer_id": "1a0e",
                 "id": "1e0e:9011",
