@@ -1086,6 +1086,17 @@
                     "rmnet"
                 ]
             },
+            "em9191": {
+                "manufacturer_id": "1199",
+                "manufacturer": "sierra",
+                "platform": "qualcomm",
+                "data_interface": "usb",
+                "pdp_index": "1",
+                "modes": [
+                    "mbim",
+                    "rmnet"
+                ]
+            },
             "mc7354": {
                 "manufacturer_id": "1199",
                 "manufacturer": "sierra",
