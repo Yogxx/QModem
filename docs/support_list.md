@@ -71,6 +71,7 @@ fm190w-gl | qualcomm |✔ usb(qmi,gobinet,ecm,mbim,rndis,ncm) | ✔ pcie(qmi)
 l610-eu | unisoc |✔ usb(ecm,rndis,ncm) | ✘
 nl668 | lte |✔ usb(ecm,rndis,ncm) | ✘
 nl678 | lte |✔ usb(qmi,ecm,rndis,ncm) | ✘
+l850-gl | intel |✔ usb(ncm) | ✘
 
 # meig
 Model | Platform | USB  | PCIe 
@@ -84,6 +85,7 @@ srm821 | unisoc |✔ usb(ecm,rndis,ncm) | ✘
 Model | Platform | USB  | PCIe 
 --- | --- | --- | ---
 em9190 | qualcomm |✔ usb(mbim,rmnet) | ✔ pcie(mbim,rmnet)
+em9191 | qualcomm |✔ usb(mbim,rmnet) | ✘
 mc7354 | lte |✔ usb(qmi) | ✘
 mc7355 | lte |✔ usb(qmi) | ✘
 
@@ -91,6 +93,7 @@ mc7355 | lte |✔ usb(qmi) | ✘
 Model | Platform | USB  | PCIe 
 --- | --- | --- | ---
 fn990a40 | qualcomm |✔ usb(mbim,rndis,qmi,ecm) | ✔ pcie(mbim,qmi)
+ln960 | qualcomm |✔ usb(mbim,qmi) | ✘
 
 # simcom
 Model | Platform | USB  | PCIe 
