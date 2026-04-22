@@ -1117,6 +1117,36 @@
                     "qmi"
                 ]
             },
+            "mc7430": {
+                "manufacturer_id": "1199",
+                "manufacturer": "sierra",
+                "platform": "qualcomm",
+                "data_interface": "usb",
+                "pdp_index": "1",
+                "wcdma_band": "1/2/4/5/8",
+                "lte_band": "1/2/3/4/5/7/8/12/13/17/20/25/26/29/30/41/66",
+                "nsa_band": "0",
+                "sa_band": "0",
+                "modes": [
+                    "qmi",
+                    "mbim"
+                ]
+            },
+            "mc7455": {
+                "manufacturer_id": "1199",
+                "manufacturer": "sierra",
+                "platform": "qualcomm",
+                "data_interface": "usb",
+                "pdp_index": "1",
+                "wcdma_band": "1/2/4/5/8",
+                "lte_band": "1/2/3/4/5/7/8/12/13/17/20/25/26/29/30/41/66",
+                "nsa_band": "0",
+                "sa_band": "0",
+                "modes": [
+                    "qmi",
+                    "mbim"
+                ]
+            },
             "fn990a40": {
                 "manufacturer_id": "1bc7",
                 "manufacturer": "telit",
