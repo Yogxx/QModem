@@ -963,7 +963,8 @@
                 "nsa_band": "0",
                 "sa_band": "0",
                 "modes": [
-                    "ncm"
+                    "ncm",
+                    "mbim"
                 ]
             },
             "l860-gl": {
