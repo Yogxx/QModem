@@ -966,6 +966,22 @@
                     "ncm"
                 ]
             },
+            "l860-gl": {
+                "id": "8087:095a",
+                "manufacturer_id": "8087",
+                "manufacturer": "fibocom",
+                "platform": "intel",
+                "data_interface": "usb",
+                "pdp_index": "0",
+                "wcdma_band": "1/2/4/5/8",
+                "lte_band": "1/2/3/4/5/7/8/12/13/14/17/18/19/20/21/25/26/28/30/38/41/66",
+                "nsa_band": "0",
+                "sa_band": "0",
+                "modes": [
+                    "ncm",
+                    "mbim"
+                ]
+            },
             "srm815": {
                 "manufacturer_id": "2dee",
                 "manufacturer": "meig",
