@@ -72,6 +72,7 @@ l610-eu | unisoc |✔ usb(ecm,rndis,ncm) | ✘
 nl668 | lte |✔ usb(ecm,rndis,ncm) | ✘
 nl678 | lte |✔ usb(qmi,ecm,rndis,ncm) | ✘
 l850-gl | intel |✔ usb(ncm) | ✘
+l860-gl | intel |✔ usb(ncm,mbim) | ✘
 
 # meig
 Model | Platform | USB  | PCIe 
