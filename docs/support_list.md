@@ -110,6 +110,7 @@ simcom_sim8380g-m2 | qualcomm |✔ usb(qmi,rndis) | ✔ pcie(qmi)
 Model | Platform | USB  | PCIe 
 --- | --- | --- | ---
 t77w968 | qualcomm |✔ usb(qmi,mbim) | ✘
+dw5821e | qualcomm |✔ usb(mbim,qmi) | ✘
 t99w175 | qualcomm |✔ usb(mbim,rmnet) | ✔ pcie(mbim)
 t99w373 | qualcomm |✔ usb(mbim,rmnet) | ✔ pcie(mbim)
 t99w640 | qualcomm |✘ | ✔ pcie(mbim)
