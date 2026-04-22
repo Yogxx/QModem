@@ -88,14 +88,18 @@ em9190 | qualcomm |✔ usb(mbim,rmnet) | ✔ pcie(mbim,rmnet)
 em9191 | qualcomm |✔ usb(mbim,rmnet) | ✔ pcie(mbim,rmnet)
 mc7354 | lte |✔ usb(qmi) | ✘
 mc7355 | lte |✔ usb(qmi) | ✘
-mc7430 | qualcomm |✔ usb(qmi,mbim) | ✘
-mc7455 | qualcomm |✔ usb(qmi,mbim) | ✘
+mc7304 | lte |✔ usb(qmi) | ✘
+mc7430 | qualcomm |✔ usb(mbim,qmi) | ✘
+mc7455 | qualcomm |✔ usb(mbim,qmi) | ✘
+mc7710 | lte |✔ usb(qmi) | ✘
 
 # telit
 Model | Platform | USB  | PCIe 
 --- | --- | --- | ---
 fn990a40 | qualcomm |✔ usb(mbim,rndis,qmi,ecm) | ✔ pcie(mbim,qmi)
 ln960 | qualcomm |✔ usb(mbim,qmi) | ✘
+fn980 | qualcomm |✔ usb(mbim,qmi) | ✘
+le910c4-eu | lte |✔ usb(mbim,ecm) | ✘
 
 # simcom
 Model | Platform | USB  | PCIe 
@@ -112,10 +116,23 @@ simcom_sim8380g-m2 | qualcomm |✔ usb(qmi,rndis) | ✔ pcie(qmi)
 Model | Platform | USB  | PCIe 
 --- | --- | --- | ---
 t77w968 | qualcomm |✔ usb(qmi,mbim) | ✘
+lt4220 | qualcomm |✔ usb(mbim,qmi,ncm) | ✘
 dw5821e | qualcomm |✔ usb(mbim,qmi) | ✘
 t99w175 | qualcomm |✔ usb(mbim,rmnet) | ✔ pcie(mbim)
 t99w373 | qualcomm |✔ usb(mbim,rmnet) | ✔ pcie(mbim)
 t99w640 | qualcomm |✘ | ✔ pcie(mbim)
+
+# zte
+Model | Platform | USB  | PCIe 
+--- | --- | --- | ---
+mu5001 | qualcomm |✔ usb(ecm,rndis,ncm) | ✘
+mf833v | lte |✔ usb(ecm,rndis) | ✘
+
+# ublox
+Model | Platform | USB  | PCIe 
+--- | --- | --- | ---
+lara-r6 | qualcomm |✔ usb(mbim,ecm,rndis) | ✘
+sara-r510 | qualcomm |✔ usb(ecm) | ✘
 
 # neoway
 Model | Platform | USB  | PCIe 
