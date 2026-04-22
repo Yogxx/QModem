@@ -71,7 +71,7 @@ fm190w-gl | qualcomm |✔ usb(qmi,gobinet,ecm,mbim,rndis,ncm) | ✔ pcie(qmi)
 l610-eu | unisoc |✔ usb(ecm,rndis,ncm) | ✘
 nl668 | lte |✔ usb(ecm,rndis,ncm) | ✘
 nl678 | lte |✔ usb(qmi,ecm,rndis,ncm) | ✘
-l850-gl | intel |✔ usb(ncm) | ✘
+l850-gl | intel |✔ usb(ncm,mbim) | ✘
 l860-gl | intel |✔ usb(ncm,mbim) | ✘
 
 # meig
