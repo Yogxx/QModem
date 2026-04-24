@@ -951,7 +951,7 @@
                     "ncm"
                 ]
             },
-            "l850-gl-ncm": {
+            "l8x0-gl-ncm": {
                 "id": "8087:095a",
                 "manufacturer_id": "8087",
                 "manufacturer": "fibocom",
